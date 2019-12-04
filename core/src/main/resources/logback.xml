@@ -1,0 +1,32 @@
+<configuration>
+    <!-- Creates a logging appender that can log information to file. The designated
+         file to log information to in this appender, is log/log.log. -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>log/log.log</file>
+        <append>false</append>
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-3level %logger{43} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Creates a logging appender that can log information to the console. -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-3level %logger{43} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Configures Logback to log all warnings to both console AND file. -->
+    <root level="WARN">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+    <!-- Configures Logback to log all INFO-level information to just the console. -->
+    <root level="INFO">
+        <appender-ref ref="STDOUT"/>
+    </root>
+
+    <!-- Disables all logging from the io.netty package except for warnings. -->
+    <logger name="io.netty" level="WARN"/>
+</configuration>

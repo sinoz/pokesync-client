@@ -1,0 +1,227 @@
+bag.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+item-bag-window
+  rotate: false
+  xy: 1, 1
+  size: 476, 448
+  split: 6, 9, 19, 10
+  orig: 476, 448
+  offset: 0, 0
+  index: -1
+party-selection
+  rotate: false
+  xy: 1, 450
+  size: 456, 207
+  orig: 456, 207
+  offset: 0, 0
+  index: -1
+misc-pocket-selected
+  rotate: false
+  xy: 1, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+medicine-pocket-selected
+  rotate: false
+  xy: 46, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+pokeballs-pocket-selected
+  rotate: false
+  xy: 91, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+tms-pocket-selected
+  rotate: false
+  xy: 136, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+berries-pocket-selected
+  rotate: false
+  xy: 181, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+mails-pocket-selected
+  rotate: false
+  xy: 226, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+battle-pocket-selected
+  rotate: false
+  xy: 271, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+keys-pocket-selected
+  rotate: false
+  xy: 316, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+customization-pocket-selected
+  rotate: false
+  xy: 361, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+misc-pocket-idle
+  rotate: false
+  xy: 1, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+medicine-pocket-idle
+  rotate: false
+  xy: 46, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+pokeballs-pocket-idle
+  rotate: false
+  xy: 91, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+tms-pocket-idle
+  rotate: false
+  xy: 136, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+berries-pocket-idle
+  rotate: false
+  xy: 181, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+mails-pocket-idle
+  rotate: false
+  xy: 226, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+battle-pocket-idle
+  rotate: false
+  xy: 271, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+keys-pocket-idle
+  rotate: false
+  xy: 316, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+customization-pocket-idle
+  rotate: false
+  xy: 361, 705
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+sort-alphanumeric-neutral
+  rotate: false
+  xy: 406, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+sort-alphanumeric-ascending
+  rotate: false
+  xy: 451, 658
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+sort-alphanumeric-descending
+  rotate: false
+  xy: 451, 704
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+entry-box-idle
+  rotate: false
+  xy: 537, 1
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+entry-box-selected
+  rotate: false
+  xy: 478, 1
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 479, 218
+  size: 116, 8
+  orig: 116, 8
+  offset: 0, 0
+  index: -1
+health-fill
+  rotate: false
+  xy: 479, 236
+  size: 12, 6
+  split: 2, 2, 2, 2
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+experience-fill
+  rotate: false
+  xy: 492, 236
+  size: 12, 6
+  split: 2, 2, 2, 2
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+separator
+  rotate: false
+  xy: 479, 244
+  size: 2, 9
+  split: 0, 0, 0, 0
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+monster-entry
+  rotate: false
+  xy: 478, 159
+  size: 173, 56
+  orig: 173, 56
+  offset: 0, 0
+  index: -1
+entry-tooltip
+  rotate: false
+  xy: 479, 254
+  size: 86, 32
+  split: 3, 3, 3, 3
+  orig: 86, 32
+  offset: 0, 0
+  index: -1

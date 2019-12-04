@@ -1,0 +1,99 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "white": {
+      "a": 1,
+      "b": 1,
+      "g": 1,
+      "r": 1
+    },
+    "black": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+    "map-button": {
+      "up": "inactive-map-button",
+      "over": "active-map-button",
+      "down": "active-map-button"
+    },
+    "info-button": {
+      "up": "inactive-info-button",
+      "over": "active-info-button",
+      "down": "active-info-button"
+    },
+    "cry-button": {
+      "up": "inactive-cry-button",
+      "over": "active-cry-button",
+      "down": "active-cry-button"
+    },
+    "uncaught-dex-entry": {
+      "up": "inactive-uncaught-dex-entry",
+      "over": "active-uncaught-dex-entry",
+      "down": "active-uncaught-dex-entry"
+    },
+
+    "caught-dex-entry": {
+      "up": "inactive-caught-dex-entry",
+      "over": "active-caught-dex-entry",
+      "down": "active-caught-dex-entry"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    "dex-window": {
+      "background": "dex-window",
+
+      "titleFont": "good-man",
+      "titleFontColor": "white"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "info-text": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "region-label": {
+      "font": "donkey-berry",
+      "fontColor": "white"
+    },
+    "name": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "title": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "height": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "weight": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "types": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "description": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "entry-tooltip-label": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+    "entry-tooltip": {
+      "label": {
+        "font": "roboto-mono-pt11-black",
+        "fontColor": "black"
+      },
+      "background": "entry-tooltip"
+    }
+  }
+}

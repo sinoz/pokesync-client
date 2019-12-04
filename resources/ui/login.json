@@ -1,0 +1,103 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "white": {
+      "a": 1,
+      "b": 1,
+      "g": 1,
+      "r": 1
+    },
+    "black": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    "lobby-window": {
+      "background": "lobby-window",
+      "titleFont": "good-man",
+      "titleFontColor": "white"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ButtonedScrollPane$SimpleScrollPaneStyle": {
+    "scroll-pane": {
+      "vScroll": "scroll-bg",
+      "vScrollKnob": {
+        "up": "inactive-scroll-knob",
+        "down": "active-scroll-knob",
+      },
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle": {
+    "credentials-input-box": {
+      "selection": "selection",
+      "background": "input-box",
+      "font": "good-man",
+      "fontColor": "white",
+      "cursor": "cursor"
+    },
+    "chat-input-box": {
+      "selection": "selection",
+      "background": "input-box",
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white",
+      "cursor": "cursor"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "email-field-label": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "password-field-label": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "loading-text": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "response-text": {
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white"
+    },
+    "queue-state": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "display-name": {
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+    "login-button": {
+      "up": "inactive-login-button",
+      "down": "active-login-button",
+      "over": "active-login-button"
+    },
+    "exit-button": {
+      "up": "inactive-quit-button",
+      "down": "active-quit-button",
+      "over": "active-quit-button"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "chat-send": {
+      "down": "send-down",
+      "up": "send-up",
+      "over": "send-over",
+      "font": "good-man",
+      "fontColor": "white"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+    "remember-me-box": {
+      "checkboxOn": "remember-me-on",
+      "checkboxOff": "remember-me-off",
+      "font": "good-man",
+      "fontColor": "white"
+    }
+  },
+}

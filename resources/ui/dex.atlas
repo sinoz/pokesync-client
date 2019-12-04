@@ -1,0 +1,162 @@
+dex.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dex-window
+  rotate: false
+  xy: 1, 1
+  size: 409, 449
+  split: 9, 15, 23, 16
+  orig: 409, 449
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 410, 0
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1
+monster-display
+  rotate: false
+  xy: 410, 45
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+name-display
+  rotate: false
+  xy: 501, 1
+  size: 165, 43
+  orig: 165, 43
+  offset: 0, 0
+  index: -1
+height-weight
+  rotate: false
+  xy: 501, 80
+  size: 167, 58
+  orig: 167, 58
+  offset: 0, 0
+  index: -1
+primary-type
+  rotate: false
+  xy: 538, 45
+  size: 126, 35
+  orig: 126, 35
+  offset: 0, 0
+  index: -1
+type
+  rotate: false
+  xy: 501, 45
+  size: 81, 35
+  orig: 81, 35
+  offset: 0, 0
+  index: -1
+description-box
+  rotate: false
+  xy: 410, 139
+  size: 362, 66
+  orig: 362, 66
+  offset: 0, 0
+  index: -1
+inactive-cry-button
+  rotate: false
+  xy: 668, 70
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+active-cry-button
+  rotate: false
+  xy: 727, 70
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+inactive-map-button
+  rotate: false
+  xy: 668, 1
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+active-map-button
+  rotate: false
+  xy: 727, 1
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+inactive-info-button
+  rotate: false
+  xy: 786, 1
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+active-info-button
+  rotate: false
+  xy: 845, 1
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+inactive-uncaught-dex-entry
+  rotate: false
+  xy: 410, 207
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+active-uncaught-dex-entry
+  rotate: false
+  xy: 528, 207
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+inactive-caught-dex-entry
+  rotate: false
+  xy: 469, 207
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+active-caught-dex-entry
+  rotate: false
+  xy: 587, 207
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 646, 207
+  size: 92, 39
+  orig: 92, 39
+  offset: 0, 0
+  index: -1
+region-map
+  rotate: false
+  xy: 1, 450
+  size: 328, 194
+  orig: 328, 194
+  offset: 0, 0
+  index: -1
+separator
+  rotate: false
+  xy: 401, 373
+  size: 2, 9
+  split: 0, 0, 0, 0
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+entry-tooltip
+  rotate: false
+  xy: 646, 207
+  size: 86, 32
+  split: 3, 3, 3, 3
+  orig: 86, 32
+  offset: 0, 0
+  index: -1

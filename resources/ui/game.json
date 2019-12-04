@@ -1,0 +1,201 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "white": {
+      "a": 1,
+      "b": 1,
+      "g": 1,
+      "r": 1
+    },
+    "black": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle": {
+    "input-field": {
+      "background": "input-field",
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white",
+      "selection": "selection",
+      "cursor": "cursor"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ButtonedScrollPane$SimpleScrollPaneStyle": {
+    "scroll-pane": {
+      "vScroll": "scroll-bg",
+      "vScrollKnob": {
+        "up": "inactive-scroll-knob",
+        "down": "active-scroll-knob",
+      },
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "inactive-chat-tab": {
+      "up": "chat-tab",
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "active-chat-tab": {
+      "up": "chat-tab-on",
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "chat-send": {
+      "up": "send-up",
+      "down": "send-down",
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "context-menu-option": {
+      "up": "option-idle",
+      "down": "option-selected",
+      "over": "option-hovered",
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "locked-context-menu-option": {
+      "up": "option-locked",
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+    "close-button": {
+      "up": "close-button",
+      "over": "close-button-x",
+      "down": "close-button-x"
+    },
+    "party-slot": {
+      "up": "idle-party-slot",
+      "over": "clicked-party-slot",
+      "down": "hovered-party-slot"
+    },
+    "status-frozen": {
+      "up": "status-frozen"
+    },
+    "status-paralyzed": {
+      "up": "status-paralyzed"
+    },
+    "status-poisoned": {
+      "up": "status-poisoned"
+    },
+    "status-asleep": {
+      "up": "status-asleep"
+    },
+    "status-burnt": {
+      "up": "status-burnt"
+    },
+    "gender-man": {
+      "up": "gender-man"
+    },
+    "gender-woman": {
+      "up": "gender-woman"
+    },
+    "top-sidebar-idle": {
+      "up": "top-sidebar-idle"
+    },
+    "top-sidebar-hovered": {
+      "up": "top-sidebar-hovered"
+    },
+    "top-sidebar-clicked": {
+      "up": "top-sidebar-clicked"
+    },
+    "sidebar-idle": {
+      "up": "sidebar-idle"
+    },
+    "sidebar-hovered": {
+      "up": "sidebar-hovered"
+    },
+    "sidebar-clicked": {
+      "up": "sidebar-clicked"
+    },
+    "hud": {
+      "up": "idle-progress-hud",
+      "over": "clicked-progress-hud",
+      "down": "active-progress-hud"
+    },
+    "donator-store-idle": {
+      "up": "donation-shop-btn-idle",
+    },
+    "donator-store-hovered": {
+      "down": "donation-shop-btn-clicked",
+      "over": "donation-shop-btn-hovered",
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    "chat-window": {
+      "background": "chat-window",
+
+      "titleFont": "good-man",
+      "titleFontColor": "white"
+    },
+    "party": {
+      "background": "party",
+
+      "titleFont": "roboto-mono-pt11-black",
+      "titleFontColor": "black"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "chat-message": {
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white"
+    },
+    "display-name": {
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white"
+    },
+    "user-tag": {
+      "font": "roboto-mono-pt11-white",
+      "fontColor": "white"
+    },
+    "dialogue-text": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    },
+    "pokedollars": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "donator-points": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+    "time": {
+      "font": "good-man",
+      "fontColor": "white"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+    "entry-tooltip": {
+      "label": {
+        "font": "roboto-mono-pt11-black",
+        "fontColor": "black"
+      },
+      "background": "popup"
+    }
+  },
+  "com.ray3k.tenpatch.TenPatchDrawable": {
+    "popup-10": {
+      "region": popup,
+      "horizontalStretchAreas": [ 3, 51, 71, 119 ],
+      "verticalStretchAreas": [ 11, 55 ],
+      "tiling": false,
+      "minWidth": 123,
+      "minHeight": 59,
+      "rightWidth": 0,
+      "leftWidth": 0,
+      "bottomHeight": 0,
+      "topHeight": 0,
+      "offsetX": 0,
+      "offsetY": 0,
+      "offsetXspeed": 0,
+      "offsetYspeed": 0,
+      "frameDuration": 0.03,
+      "regions": [],
+      "playMode": 2
+    }
+  }
+}

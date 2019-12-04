@@ -1,0 +1,8 @@
+rootProject.name = 'client'
+
+include ':desktop'
+include ':core'
+include 'rom'
+include 'lib'
+include 'util'
+

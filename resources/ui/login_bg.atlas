@@ -1,0 +1,12 @@
+login_bg.png
+size: 1024,546
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default
+  rotate: false
+  xy: 0, 0
+  size: 1024, 546
+  orig: 1024, 546
+  offset: 0, 0
+  index: -1

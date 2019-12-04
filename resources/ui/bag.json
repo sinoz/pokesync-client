@@ -1,0 +1,108 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "white": {
+      "a": 1,
+      "b": 1,
+      "g": 1,
+      "r": 1
+    },
+    "black": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle": {
+    "sort-alphanumeric-neutral": {
+      "up": "sort-alphanumeric-neutral"
+    },
+    "sort-alphanumeric-descending": {
+      "up": "sort-alphanumeric-descending"
+    },
+    "sort-alphanumeric-ascending": {
+      "up": "sort-alphanumeric-ascending"
+    },
+    "entry-box": {
+      "up": "entry-box-idle",
+      "over": "entry-box-selected"
+    },
+    "misc-pocket-idle": {
+      "up": "misc-pocket-idle"
+    },
+    "medicine-pocket-idle": {
+      "up": "medicine-pocket-idle"
+    },
+    "pokeballs-pocket-idle": {
+      "up": "pokeballs-pocket-idle"
+    },
+    "tms-pocket-idle": {
+      "up": "tms-pocket-idle"
+    },
+    "berries-pocket-idle": {
+      "up": "berries-pocket-idle"
+    },
+    "mails-pocket-idle": {
+      "up": "mails-pocket-idle"
+    },
+    "battle-pocket-idle": {
+      "up": "battle-pocket-idle"
+    },
+    "keys-pocket-idle": {
+      "up": "keys-pocket-idle"
+    },
+    "customization-pocket-idle": {
+      "up": "customization-pocket-idle"
+    },
+    "misc-pocket-selected": {
+      "up": "misc-pocket-selected"
+    },
+    "medicine-pocket-selected": {
+      "up": "medicine-pocket-selected"
+    },
+    "pokeballs-pocket-selected": {
+      "up": "pokeballs-pocket-selected"
+    },
+    "tms-pocket-selected": {
+      "up": "tms-pocket-selected"
+    },
+    "berries-pocket-selected": {
+      "up": "berries-pocket-selected"
+    },
+    "mails-pocket-selected": {
+      "up": "mails-pocket-selected"
+    },
+    "battle-pocket-selected": {
+      "up": "battle-pocket-selected"
+    },
+    "keys-pocket-selected": {
+      "up": "keys-pocket-selected"
+    },
+    "customization-pocket-selected": {
+      "up": "customization-pocket-selected"
+    },
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    "item-bag-window": {
+      "background": "item-bag-window",
+
+      "titleFont": "roboto-mono-pt11-white",
+      "titleFontColor": "white"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "tooltip-info": {
+      "font": "roboto-mono-pt11-black",
+      "fontColor": "black"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle": {
+    "entry-tooltip": {
+      "label": {
+        "font": "roboto-mono-pt11-black",
+        "fontColor": "black"
+      },
+      "background": "entry-tooltip"
+    }
+  }
+}

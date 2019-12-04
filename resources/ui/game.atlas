@@ -1,0 +1,513 @@
+game.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chat-window
+  rotate: false
+  xy: 72, 1
+  size: 93, 82
+  split: 8, 12, 22, 13
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+chat-tab
+  rotate: false
+  xy: 767, 389
+  size: 45, 29
+  split: 4, 11, 4, 6
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+chat-tab-on
+  rotate: false
+  xy: 721, 389
+  size: 45, 29
+  split: 4, 11, 4, 6
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+input-field
+  rotate: false
+  xy: 814, 390
+  size: 35, 26
+  split: 3, 3, 3, 3
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 721, 419
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+selection
+  rotate: false
+  xy: 729, 419
+  size: 6, 6
+  split: 1, 4, 1, 4
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+separator
+  rotate: false
+  xy: 736, 419
+  size: 1, 1
+  split: 0, 0, 0, 0
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+send-down
+  rotate: false
+  xy: 891, 55
+  size: 52, 26
+  split: 3, 5, 3, 6
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+send-up
+  rotate: false
+  xy: 891, 1
+  size: 52, 26
+  split: 3, 5, 3, 6
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+send-over
+  rotate: false
+  xy: 891, 28
+  size: 52, 26
+  split: 3, 5, 3, 6
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+party
+  rotate: false
+  xy: 507, 1
+  size: 67, 324
+  split: 3, 7, 23, 7
+  orig: 67, 324
+  offset: 0, 0
+  index: -1
+idle-party-slot
+  rotate: false
+  xy: 326, 4
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hovered-party-slot
+  rotate: false
+  xy: 369, 4
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+clicked-party-slot
+  rotate: false
+  xy: 412, 4
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+loc-display
+  rotate: false
+  xy: 578, 190
+  size: 169, 75
+  orig: 169, 75
+  offset: 0, 0
+  index: -1
+scroll-bg
+  rotate: false
+  xy: 169, 62
+  size: 29, 31
+  split: 5, 6, 9, 11
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+active-scroll-knob
+  rotate: false
+  xy: 289, 4
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+inactive-scroll-knob
+  rotate: false
+  xy: 289, 36
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+active-progress-hud
+  rotate: false
+  xy: 578, 1
+  size: 269, 62
+  orig: 269, 62
+  offset: 0, 0
+  index: -1
+idle-progress-hud
+  rotate: false
+  xy: 578, 64
+  size: 269, 62
+  orig: 269, 62
+  offset: 0, 0
+  index: -1
+clicked-progress-hud
+  rotate: false
+  xy: 578, 127
+  size: 269, 62
+  orig: 269, 62
+  offset: 0, 0
+  index: -1
+donation-shop-btn-idle
+  rotate: false
+  xy: 900, 190
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+donation-shop-btn-hovered
+  rotate: false
+  xy: 748, 190
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+donation-shop-btn-clicked
+  rotate: false
+  xy: 824, 190
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+inactive-donation-pts-icon
+  rotate: false
+  xy: 72, 269
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+active-donation-pts-icon
+  rotate: false
+  xy: 72, 249
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+inactive-pokedollar-icon
+  rotate: false
+  xy: 88, 269
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+active-pokedollar-icon
+  rotate: false
+  xy: 88, 249
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+active-daytime-icon
+  rotate: false
+  xy: 72, 289
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+inactive-daytime-icon
+  rotate: false
+  xy: 72, 309
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+active-nighttime-icon
+  rotate: false
+  xy: 92, 289
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+inactive-nighttime-icon
+  rotate: false
+  xy: 92, 309
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+close-button-x
+  rotate: false
+  xy: 119, 355
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+close-button
+  rotate: false
+  xy: 132, 355
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+status-poisoned
+  rotate: false
+  xy: 206, 337
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+status-frozen
+  rotate: false
+  xy: 134, 337
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+status-burnt
+  rotate: false
+  xy: 145, 337
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+status-paralyzed
+  rotate: false
+  xy: 177, 336
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+status-asleep
+  rotate: false
+  xy: 161, 338
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+gender-man
+  rotate: false
+  xy: 237, 337
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+gender-woman
+  rotate: false
+  xy: 226, 337
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dev-rank-icon
+  rotate: false
+  xy: 733, 670
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+display-name-tag
+  rotate: false
+  xy: 733, 726
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+popup
+  rotate: false
+  xy: 214, 219
+  size: 123, 59
+  orig: 123, 59
+  offset: 0, 0
+  index: -1
+option-hovered
+  rotate: false
+  xy: 338, 219
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+option-selected
+  rotate: false
+  xy: 338, 246
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+option-locked
+  rotate: false
+  xy: 338, 273
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+option-idle
+  rotate: false
+  xy: 338, 300
+  size: 113, 26
+  orig: 113, 26
+  offset: 0, 0
+  index: -1
+location-slider
+  rotate: false
+  xy: 578, 190
+  size: 166, 72
+  orig: 166, 72
+  offset: 0, 0
+  index: -1
+top-sidebar-idle
+  rotate: false
+  xy: 788, 277
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+top-sidebar-hovered
+  rotate: false
+  xy: 578, 277
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+top-sidebar-clicked
+  rotate: false
+  xy: 683, 277
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+sidebar-hovered
+  rotate: false
+  xy: 578, 333
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+sidebar-clicked
+  rotate: false
+  xy: 683, 333
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+sidebar-idle
+  rotate: false
+  xy: 788, 333
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+bag-icon-idle
+  rotate: false
+  xy: 55, 330
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+bag-icon-hovered
+  rotate: false
+  xy: 55, 357
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dex-icon-idle
+  rotate: false
+  xy: 79, 330
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dex-icon-hovered
+  rotate: false
+  xy: 79, 359
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+achievements-icon-hovered
+  rotate: false
+  xy: 26, 413
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+achievements-icon-idle
+  rotate: false
+  xy: 26, 388
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+quest-icon-idle
+  rotate: false
+  xy: 1, 378
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+quest-icon-hovered
+  rotate: false
+  xy: 1, 403
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+skills-icon-idle
+  rotate: false
+  xy: 76, 388
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+skills-icon-hovered
+  rotate: false
+  xy: 76, 415
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+music-icon-idle
+  rotate: false
+  xy: 55, 384
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+music-icon-hovered
+  rotate: false
+  xy: 55, 410
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+chat-icon-idle
+  rotate: false
+  xy: 1, 330
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+chat-icon-hovered
+  rotate: false
+  xy: 1, 354
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+settings-icon-idle
+  rotate: false
+  xy: 103, 327
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+settings-icon-hovered
+  rotate: false
+  xy: 103, 352
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
