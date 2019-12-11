@@ -48,13 +48,17 @@ class PartySystem(val dispatcher: MessageDispatcher, val party: PartyWindow) : E
         while (!commands.isEmpty) {
             when (val command = commands.removeFirst()) {
                 is SetPartySlot -> {
-                    party.attachMonsterToSlot(
-                        command.slot,
-                        command.monsterId,
-                        command.gender,
-                        command.coloration,
-                        command.statusCondition
-                    )
+                    if (command.monsterId.value == 65535) {
+                        party.removeMonsterFromSlot(command.slot)
+                    } else {
+                        party.attachMonsterToSlot(
+                            command.slot,
+                            command.monsterId,
+                            command.gender,
+                            command.coloration,
+                            command.statusCondition
+                        )
+                    }
                 }
             }
         }
